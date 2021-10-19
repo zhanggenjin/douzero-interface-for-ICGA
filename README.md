@@ -1,5 +1,5 @@
 # douzero-interface-for-ICGA
-This repository implements Douzero's interface to IGCA.  
+This repository implements Douzero's interface to ICGA.  
 `./douzero`: This directory stores Doudizhu AI projects.  
 `./interface`: The interface of ICGA is stored in this directory, including neural network bidding.  
 `./interface_more_regular`:More standardized code implements the interface.
